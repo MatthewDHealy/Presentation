@@ -1,5 +1,4 @@
 # Presentation
 My View of Bioinformatics
 
-At the moment this repository will have just one document, a presentation I recently gave
-that summarizes my views of the field.
+Just uploaded new version of my presentation in PDF format.
